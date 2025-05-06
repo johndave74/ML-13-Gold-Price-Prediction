@@ -121,5 +121,6 @@ Feel free to contribute, fork, or use this project as a template for your own pr
 
 ### 🤝 **Contact**
 
-Created by **John David**
-For inquiries or collaborations: adelekejohndavid@gmail.com |
+Created by: **John David**
+
+For inquiries or collaborations: adelekejohndavid@gmail.com
